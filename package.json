@@ -1,0 +1,23 @@
+{
+  "name": "xnapsoft",
+  "version": "1.0.0",
+  "description": "company's website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binismail/xnapsoft.git"
+  },
+  "keywords": [
+    "web",
+    "development"
+  ],
+  "author": "binismail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binismail/xnapsoft/issues"
+  },
+  "homepage": "https://github.com/binismail/xnapsoft#readme"
+}
