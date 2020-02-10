@@ -1,23 +1,14 @@
 {
   "name": "xnapsoft",
   "version": "1.0.0",
-  "description": "company's website",
-  "main": "index.js",
+  "description": "xnapsoft website ",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile:sass": "node-sass "
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/binismail/xnapsoft.git"
-  },
-  "keywords": [
-    "web",
-    "development"
-  ],
-  "author": "binismail",
+  "author": "binsimail",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/binismail/xnapsoft/issues"
-  },
-  "homepage": "https://github.com/binismail/xnapsoft#readme"
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  }
 }
